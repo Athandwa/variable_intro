@@ -1,0 +1,15 @@
+var name = "Lucky";
+var age = 12;
+var date = new Date();
+var boolean = false;
+console.log(name);
+console.log(typeof name);
+console.log(age);
+console.log(typeof age);
+console.log(date);
+console.log(typeof date);
+console.log(boolean);
+console.log(typeof boolean);
+var fruit = ["banana", "apple"];
+console.log(fruit);
+console.log(typeof fruit);
